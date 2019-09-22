@@ -1,0 +1,30 @@
+{
+  "name": "rpi-vlc-controller",
+  "version": "0.0.1",
+  "description": "Raspberry pi vlc controller",
+  "main": "index.js",
+  "dependencies": {
+    "rpi-gpio": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dizzyrobin/rpi-vlc-controller.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "vlc",
+    "controller"
+  ],
+  "author": "dizzyrobin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dizzyrobin/rpi-vlc-controller/issues"
+  },
+  "homepage": "https://github.com/dizzyrobin/rpi-vlc-controller#readme"
+}
